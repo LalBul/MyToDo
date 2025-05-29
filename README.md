@@ -1,5 +1,6 @@
 
-<img src="https://github.com/user-attachments/assets/49261d55-4f92-4de5-b374-fcc73df2c796" width="300"/>
+![ezgif-5a2ac5f9b48914](https://github.com/user-attachments/assets/7285e89a-ab36-4888-8af0-ed7d2953f8b5)
+
 
 # 📝 MyToDo
 

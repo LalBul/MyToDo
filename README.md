@@ -1,5 +1,7 @@
 
-![ezgif-5a2ac5f9b48914](https://github.com/user-attachments/assets/7285e89a-ab36-4888-8af0-ed7d2953f8b5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7285e89a-ab36-4888-8af0-ed7d2953f8b5" width="300"/>
+</p>
 
 
 # 📝 MyToDo

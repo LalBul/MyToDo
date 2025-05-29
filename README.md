@@ -1,12 +1,14 @@
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7285e89a-ab36-4888-8af0-ed7d2953f8b5" width="300"/>
-</p>
+
 
 
 # 📝 MyToDo
 
 Простое и красивое приложение для управления задачами, разработанное с использованием **SwiftUI**.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7285e89a-ab36-4888-8af0-ed7d2953f8b5" width="300"/>
+</p>
 
 ## 🚀 Возможности
 
